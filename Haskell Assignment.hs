@@ -1,9 +1,3 @@
--- Student name : Ruiqi Li
--- Student ID : D18125180
--- Course : ASD DT228A
--- Lecturer : Dr. Pierpaolo Dondio 
--- Haskell Assignment
-
 import System.IO
 import System.Environment
 import Data.Char
