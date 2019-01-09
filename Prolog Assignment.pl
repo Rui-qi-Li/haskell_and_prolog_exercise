@@ -1,9 +1,6 @@
 /* Assignment A
    Student name: Ruiqi Li
-   Student number: D18125180
    Student course & year : MSc Advanced Software Development 2018
-   Class Information: DT228A – PROGRAMMING PARADIGMS
-   Lecture Name: Dr. Pierpaolo Dondio
 */
 
 /* Part 1 - Flights */
